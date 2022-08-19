@@ -3,6 +3,13 @@
 
 <h1 align="center">I'm Anand Kumhar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 <h2 align="center">Currently Learning Data Analysis from Masai School </h2>
+
+  <div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+      
+
+
 <h2 dir="auto"><img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="40" data-animated-image="" ></a> <strong>About Me:</strong></h2>
 <br>
 <img align="right" alt="Coding" width="400" height="300" src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif">
@@ -46,10 +53,7 @@
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
     <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
  
-   <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-      
+ 
 </p>
 <h2 dir="auto"><img src="https://camo.githubusercontent.com/6324b8a2d7c4e78c6271e5bdb479001f501fe1108cdd4a0563d5b08758feb0c4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5a434e36463346416b7773794f47553252532f67697068792e676966" width="60" data-animated-image="" <strong>Github Stats:</strong></h2>
    
